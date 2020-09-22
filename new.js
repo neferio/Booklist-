@@ -1,6 +1,6 @@
 //document.querySelector('#b1').addEventListener('click',data1);
 
-console.log('hey');
+console.log('heyyya');
 
 var cou='0';
 function clearing(){
