@@ -10,3 +10,5 @@ ffffffff
 Branching work
 
 Rebasing check
+
+New check of rebase
