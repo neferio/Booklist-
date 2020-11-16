@@ -1,7 +1,7 @@
 //document.querySelector('#b1').addEventListener('click',data1);
 
 
-console.log('heyyya its new and rebasing feature 2');
+console.log('heyyya its new and rebasidsaasdsadasng feature 2');
 
 
 var cou='0';
